@@ -8,3 +8,7 @@ Using streamlit integrated with Python to map public data
 - pydeck==0.3.0
 - streamlit==0.57.3
 - plotly==4.0.0
+
+
+![App Demo](app.gif)
+
