@@ -12,3 +12,7 @@ Using streamlit integrated with Python to map public data
 
 ![App Demo](NYC_app.gif)
 
+
+
+
+![App Demo](NYC_app_1.gif)
