@@ -10,5 +10,5 @@ Using streamlit integrated with Python to map public data
 - plotly==4.0.0
 
 
-![App Demo](app.gif)
+![App Demo](NYC_app.gif)
 
